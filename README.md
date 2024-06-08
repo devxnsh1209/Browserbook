@@ -40,5 +40,7 @@ approve and reject requests for new books and maintain lists of book categories.
 
 ## Screenshots
 ![image](https://github.com/devxnsh1209/Browserbook/assets/100987818/bbb2a12f-3590-45c0-8a5c-4d3da804f25c)
+
+
 ![image](https://github.com/devxnsh1209/Browserbook/assets/100987818/29d33317-b766-4193-9d58-e1f06268487a)
 
